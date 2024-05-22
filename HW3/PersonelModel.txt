@@ -1,5 +1,5 @@
 String name = Ali
 String surname = Atabay
-String age = 30
+Int age = 30
 String position = Engineer
 String address = Istanbul
